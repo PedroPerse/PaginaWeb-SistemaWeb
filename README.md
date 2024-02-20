@@ -8,3 +8,10 @@
 <!--Area do usuário-->
 <!-- ![login](https://github.com/PedroPerse/home-pet/assets/133821168/5bcb7a6b-c320-4e6a-b64d-710006c52667)-->
 <!-- ![cadastro](https://github.com/PedroPerse/home-pet/assets/133821168/c69fffa9-d56a-412a-bc4f-dfc73862c5d6) Cadastro-->
+<!--![area do usuário home](https://github.com/PedroPerse/home-pet/assets/133821168/c3eb6ca4-62bf-4b98-a002-126a8882f7ca) Area do usuário home -->
+<!--![agendamento pet](https://github.com/PedroPerse/home-pet/assets/133821168/b69d00f7-2c5e-4c03-a25f-3512dabb5efc) Agendamento pet -->
+<!--![cadastro](https://github.com/PedroPerse/home-pet/assets/133821168/befc1b19-5f64-44bc-9924-e34d587707ef) -->
+<!--![Cadastro-Pet](https://github.com/PedroPerse/home-pet/assets/133821168/8d2ce111-f627-4134-ab36-ab184fb0619d) Cadastro pet -->
+<!--![Dados pet](https://github.com/PedroPerse/home-pet/assets/133821168/b82f57f1-020b-4995-940d-a9ea3f793c7f) Dados pet-->
+<!--![Editar perfil cliente](https://github.com/PedroPerse/home-pet/assets/133821168/f5a619e3-6517-40a9-a73d-1ad2393e7255) Editar Perfil cliente-->
+<!--![Fale conosco cliente](https://github.com/PedroPerse/home-pet/assets/133821168/73e0ee1b-e8ae-42ec-8486-80de212ab474) Fale conosco cliente-->
