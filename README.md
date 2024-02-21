@@ -1,18 +1,71 @@
-# Home-Perse
-------------------
-<!--![princ](https://github.com/PedroPerse/home-pet/assets/133821168/0f9cb1fb-288a-416e-bb24-d5d573eb0b96) tela principal-->
-<!--![serviços](https://github.com/PedroPerse/home-pet/assets/133821168/a104ad42-3b3c-42a8-b57c-bad9989ebe89) Serviços -->
-<!--![Quem Somos (1)](https://github.com/PedroPerse/home-pet/assets/133821168/12fd5474-065f-46ed-934c-be36254c1e6c) Quem somos-->
-<!--![fale conosoc](https://github.com/PedroPerse/home-pet/assets/133821168/8b724ac4-1a9e-4166-b195-523a96db30b9) Fale conosco -->
+<div align="center">    <img width="50%" title="titulo da imagem" src="img/logo1.1.png"/>
+ 
+>Clínica Veterinária "Health Pet" - Site Institucional
+Bem-vindo ao repositório do site institucional da Clínica Veterinária "Health Pet"! Nosso site tem como objetivo fornecer informações sobre os serviços oferecidos, equipe, horário de funcionamento e como entrar em contato conosco.
+ 
+<h1>Sobre a Clínica</h1>
+A Clínica Veterinária "Health Pet" é dedicada ao cuidado e bem-estar de animais de estimação. Nossa missão é oferecer serviços veterinários de alta qualidade e atendimento compassivo para todos os animais que atendemos.
+<h3>Recursos:</h3>
+Nosso site possui os seguintes recursos:
+ 
+<h2>Página Inicial:</h2> Apresenta uma breve visão geral da clínica e destaca os principais serviços oferecidos.
+<img src="img/princ.gif"/>
+<h2>Serviços: </h2> Descreve os serviços veterinários oferecidos, incluindo consultas, vacinação, cirurgias, exames laboratoriais, tratamento de emergência, entre outros.
+<img src="img/serviços.gif" alt=""/>
+ 
+<h2>Quem somos: </h2>
+<img src="img/Quem Somos.gif" alt=""/>
+ 
+<h2>Fale conosco:</h2> Oferece diferentes formas de entrar em contato conosco, como telefone, e-mail e formulário de contato online.
+<img src="img/fale conosoc.gif" alt=""/>
+<hr>
+<h1 style="font-family:cursive;">Aqui o Usuário tem como opção Login/Cadastro. </h1>
+<h3>Login: </h3>
+<img src="img/login.gif" alt=""/>
+<h3>Esqueceu sua senha:</h3>
+<img src="img/EsqueceuSenha.gif"/>
+ 
+<h3>Cadastrar:</h3>
+<img src="img/cadastro.gif" alt=""/>
+<hr>
+<h1>Sistema Usuário Web:</h1>
+<img src="img/area do usuário home.gif" alt=""/>
+<h3>Tela agendar:</h3>
+<img src="img/agendamento pet.gif" alt=""/>
+<h3>Resultados:</h3>
+<img src="" alt=""/>
+<h3>Meus agendamentos:</h3>
+<img src="" alt=""/>
+<h3>Consulta pet:</h3>
+<img src="" alt=""/>
+<h3>Editar Perfil:</h3>
+<img src="" alt=""/>
+<h3>Dúvidas:</h3>
+<img src="img/Fale conosco cliente.gif" alt=""/>
+<h3>Cadastrar Pet:</h3>
+<img src="img/Cadastro-Pet.gif" alt=""/>
+<hr></div>
+<h2>Tecnologias Utilizadas</h2>
+O site da Clínica Veterinária "Health Pet" foi desenvolvido utilizando as seguintes tecnologias:
+ 
+* HTML5
+* CSS3
+* Bootstrap
+* JavaScript
+* PHP
+ 
+<h3>Como Contribuir</h3><hr>
+Se você quiser contribuir para o nosso site, sinta-se à vontade para fazer um fork deste repositório, fazer as alterações desejadas e enviar um pull request. Estamos abertos a sugestões de melhorias, correções de bugs e adição de novos recursos.
+<hr>
+<h3>Como Executar Localmente</h3>
+Se você quiser executar o site localmente em seu computador, siga estas etapas:
+ 
+Autor
+<h4>Este site foi desenvolvido por:</h4>
 
-<!--Area do usuário-->
-<!-- ![login](https://github.com/PedroPerse/home-pet/assets/133821168/5bcb7a6b-c320-4e6a-b64d-710006c52667)-->
-<!-- ![cadastro](https://github.com/PedroPerse/home-pet/assets/133821168/c69fffa9-d56a-412a-bc4f-dfc73862c5d6) Cadastro-->
-<!--![area do usuário home](https://github.com/PedroPerse/home-pet/assets/133821168/c3eb6ca4-62bf-4b98-a002-126a8882f7ca) Area do usuário home -->
-<!--![agendamento pet](https://github.com/PedroPerse/home-pet/assets/133821168/b69d00f7-2c5e-4c03-a25f-3512dabb5efc) Agendamento pet -->
-<!--![cadastro](https://github.com/PedroPerse/home-pet/assets/133821168/befc1b19-5f64-44bc-9924-e34d587707ef) -->
-<!--![Cadastro-Pet](https://github.com/PedroPerse/home-pet/assets/133821168/8d2ce111-f627-4134-ab36-ab184fb0619d) Cadastro pet -->
-<!--![Dados pet](https://github.com/PedroPerse/home-pet/assets/133821168/b82f57f1-020b-4995-940d-a9ea3f793c7f) Dados pet-->
-<!--![Editar perfil cliente](https://github.com/PedroPerse/home-pet/assets/133821168/f5a619e3-6517-40a9-a73d-1ad2393e7255) Editar Perfil cliente-->
-<!--![Fale conosco cliente](https://github.com/PedroPerse/home-pet/assets/133821168/73e0ee1b-e8ae-42ec-8486-80de212ab474) Fale conosco cliente-->
-<!--![Resultados](https://github.com/PedroPerse/home-pet/assets/133821168/8eb7f411-361f-4dbb-9af8-e433c5595d8f) Resultados -->
+[Cesar Augusto Silva Cunha] Perfil GitHub [Clique Aqui](https://github.com/Cesaracunha)<br>
+[Elmar Gouvea Rodrigues Merelis] Perfil GitHub [Clique Aqui](https://github.com/elmarodrigues)<br>
+[Gustavo Luiz dos Santos] Perfil GitHub [Clique Aqui](https://github.com/gudevs23)<br>
+[João Victor Albuquerque Maia]  Perfil GitHub [Clique Aqui](https://github.com/joaovamaia)<br>
+[Juan Felipe Aoki Guna]  Perfil GitHub [Clique Aqui](https://github.com/jufelipeaoki)<br>
+[Pedro Henrique de Oliveira Perse]  Perfil GitHub [Clique Aqui](https://github.com/PedroPerse)<br>
