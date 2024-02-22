@@ -33,13 +33,13 @@ Nosso site possui os seguintes recursos:
 <h3>Tela agendar:</h3>
 <img src="img/agendamento pet.gif" alt=""/>
 <h3>Resultados:</h3>
-<img src="" alt=""/>
+<img src="img/Resultados 1.gif" alt=""/>
 <h3>Meus agendamentos:</h3>
-<img src="" alt=""/>
+<img src="img/Meus agendamentos.gif" alt=""/>
 <h3>Consulta pet:</h3>
-<img src="" alt=""/>
+<img src="img/Dados pet 1.gif" alt=""/>
 <h3>Editar Perfil:</h3>
-<img src="" alt=""/>
+<img src="img/Editar perfil cliente.gif" alt=""/>
 <h3>Dúvidas:</h3>
 <img src="img/Fale conosco cliente.gif" alt=""/>
 <h3>Cadastrar Pet:</h3>
