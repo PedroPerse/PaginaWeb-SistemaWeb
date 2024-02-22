@@ -31,7 +31,7 @@ Nosso site possui os seguintes recursos:
 <h1>Sistema Usuário Web:</h1>
 <img src="img/area do usuário home.gif" alt=""/>
 <h3>Tela agendar:</h3>
-<img src="img/agendamento pet.gif" alt=""/>
+<img src="img/Agendamento 1.gif" alt=""/>
 <h3>Resultados:</h3>
 <img src="img/Resultados 1.gif" alt=""/>
 <h3>Meus agendamentos:</h3>
